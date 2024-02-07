@@ -58,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_puppeteer](https://github.com/stackshareiodev/ad_puppeteer)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|68<br/>Tools used|02/06/24 <br/>Report generated|
+|68<br/>Tools used|02/07/24 <br/>Report generated|
 |------|------|
 </div>
 
